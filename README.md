@@ -21,7 +21,6 @@ Ce projet consiste à développer un jeu 2D de type **Space Invaders** en utilis
 
 - **Processing** : Pour le développement graphique et la gestion des animations.
 - **Programmation orientée objet** : Organisation des entités du jeu (vaisseau, projectiles, ennemis).
-- **Détection de collision** : Gestion des interactions entre projectiles, ennemis et vaisseau.
 
 ## Réaliser par :
   [Unelle AMOUSSOU](https://github.com/UnelleA)
